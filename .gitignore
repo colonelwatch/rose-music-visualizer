@@ -1,0 +1,4 @@
+audio/*
+!audio/sine.wav
+!audio/stepsine.wav
+__pycache__
